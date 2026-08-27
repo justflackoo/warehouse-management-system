@@ -12,16 +12,15 @@
 10. Il sistema deve offrire al Magazziniere una funzionalità per inserire un prodotto all’interno del catalogo, specificando id, nome, descrizione, categoria, prezzo unitario, quantità disponibile in magazzino, fornitore
 11. Il sistema deve offrire al Magazziniere una funzionalità per modificare le informazioni di un prodotto presente nel catalogo.
 12. Il sistema deve offrire al Magazziniere una funzionalità per modificare la quantità disponibile di un prodotto.
-13. Il sistema deve offrire al Magazziniere una funzionalità per modificare lo stato di un prodotto.
-14. Il sistema deve offrire al Magazziniere una funzionalità per consultare il catalogo.
-15. Il sistema deve offrire al Venditore una funzionalità per consultare il catalogo.
-16. Il sistema deve offrire al Cliente una funzionalità per effettuare un ordine, del quale si vuole memorizzare id_ordine, id_cliente, prodotti coinvolti, quantità dei prodotti coinvolti, prezzo unitario di ciascun prodotto, importo complessivo e stato dell’ordine.
-17. Il sistema deve verificare la disponibilità dei prodotti prima della conferma di un ordine e impedire la conferma qualora la quantità richiesta non sia disponibile.
-18. Il sistema deve aggiornare la quantità disponibile dei prodotti in seguito alla conferma di un ordine.
-19. Il sistema deve offrire al Cliente una funzionalità per consultare gli ordini effettuati.
-20. Il sistema deve offrire al Venditore una funzionalità che consenta di visualizzare gli ordini e aggiornarne lo stato.
-21. Il sistema deve fornire all’Amministratore una funzionalità per poter consultare il valore economico delle merci presenti in magazzino.
-22. Il sistema deve fornire all’Amministratore una funzionalità che consenta di visualizzare gli ordini effettuati in un determinato intervallo temporale.
+13. Il sistema deve offrire al Magazziniere una funzionalità per consultare il catalogo.
+14. Il sistema deve offrire al Venditore una funzionalità per consultare il catalogo.
+15. Il sistema deve offrire al Cliente una funzionalità per effettuare un ordine, del quale si vuole memorizzare id_ordine, id_cliente, prodotti coinvolti, quantità dei prodotti coinvolti, prezzo unitario di ciascun prodotto, importo complessivo e stato dell’ordine.
+16. Il sistema deve verificare la disponibilità dei prodotti prima della conferma di un ordine e impedire la conferma qualora la quantità richiesta non sia disponibile.
+17. Il sistema deve aggiornare la quantità disponibile dei prodotti in seguito alla conferma di un ordine.
+18. Il sistema deve offrire al Cliente una funzionalità per consultare gli ordini effettuati.
+19. Il sistema deve offrire al Venditore una funzionalità che consenta di visualizzare gli ordini e aggiornarne lo stato.
+20. Il sistema deve fornire all’Amministratore una funzionalità per poter consultare il valore economico delle merci presenti in magazzino.
+21. Il sistema deve fornire all’Amministratore una funzionalità che consenta di visualizzare gli ordini effettuati in un determinato intervallo temporale.
 23. Il sistema deve fornire all’Amministratore una funzionalità che consenta di visualizzare l’incasso totale ottenuto dagli ordini completati.
 24. Il sistema deve fornire all’Amministratore una funzionalità che consenta di poter consultare l’elenco dei clienti registrati.
 25. Il sistema deve fornire all’Amministratore una funzionalità che consenta  di poter consultare l’elenco dei prodotti maggiormente venduti.
