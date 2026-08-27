@@ -9,7 +9,7 @@
 7. Il sistema deve offrire agli Utenti una funzionalità per accedere alla propria area riservata. 
 8. Il sistema deve offrire agli Utenti una funzionalità per visualizzare i propri dati personali.
 9. Il sistema deve offrire agli Utenti una funzionalità per modificare i propri dati personali.
-10. Il sistema deve offrire al Magazziniere una funzionalità per inserire un prodotto all’interno del catalogo, specificando id, nome, descrizione, categoria, prezzo unitario, quantità disponibile in magazzino, fornitore, stato del prodotto
+10. Il sistema deve offrire al Magazziniere una funzionalità per inserire un prodotto all’interno del catalogo, specificando id, nome, descrizione, categoria, prezzo unitario, quantità disponibile in magazzino, fornitore
 11. Il sistema deve offrire al Magazziniere una funzionalità per modificare le informazioni di un prodotto presente nel catalogo.
 12. Il sistema deve offrire al Magazziniere una funzionalità per modificare la quantità disponibile di un prodotto.
 13. Il sistema deve offrire al Magazziniere una funzionalità per modificare lo stato di un prodotto.
